@@ -9,7 +9,7 @@ using GTANetworkShared;
 namespace CEFCommands
 {
 
-    public class CEFCommands : Script
+    public CEFCommands : Script
     {
         public CEFCommands()
         {
